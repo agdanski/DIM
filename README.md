@@ -99,3 +99,8 @@ See [CONTRIBUTING.md](https://github.com/DestinyItemManager/DIM/blob/master/docs
 
 ## License
 Code released under the [MIT license](http://choosealicense.com/licenses/mit/).
+
+NOTE: 
+just adding a few things that i want for myself, also learning typescript.
+was going to make a java api for destiny 2 and did actually start on one, but may save that
+for later if i can get my changes working in this repo.
